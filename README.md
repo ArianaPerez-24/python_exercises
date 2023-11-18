@@ -36,8 +36,9 @@ _____
 * Ejercicio 2  
 	* Espinosa Sánchez Albert Alfonso / @alberths-mx / Grupo-402 /
    https://github.com/mevangelista-alvarado/python_exercises/blob/main/1_solucion_problema_02.ipynb
-* Ejercicio 3  
-	*
+* Ejercicio 3
+* Ariana Jocelyn Perez Ramirez 401 
+ https://github.com/ArianaPerez-24/ArianaPerez-24/blob/4f714bc3fd8e07348df4f2f8dda50e376bbe7383/3_solucion_problema_3.ipynb
 * Ejercicio 4  
 	* 
 * Ejercicio 5  
